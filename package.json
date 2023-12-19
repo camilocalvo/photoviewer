@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/photoviewer",
+  "name": "@zolldata/photoviewer",
   "version": "3.0.4",
   "description": "PhotoViewer table images with fullscreen and sharing capabilities",
   "main": "dist/plugin.cjs.js",
@@ -82,5 +82,9 @@
   },
   "dependencies": {
     "jeep-photoviewer": "^1.2.0"
+  },
+  "homepage": "https://github.com/capacitor-community/photoviewer#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
